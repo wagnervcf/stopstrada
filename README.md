@@ -1,4 +1,4 @@
 # stopstrada
 Um simples arquivo batch que é um arquivo texto contendo linhas com comandos que podem ser executados sequencialmente pelo interpretador de comandos do MS-DOS. Esse arquivo tem a possibilidade de resolver um bug do Strada Software em seu encerramento.
 
-<img src="https://raw.githubusercontent.com/wagnervcf/stopstrada/main/stopstrada.png"</img>
+<img src="https://raw.githubusercontent.com/wagnervcf/stopstrada/main/stopstrada.png"/>
